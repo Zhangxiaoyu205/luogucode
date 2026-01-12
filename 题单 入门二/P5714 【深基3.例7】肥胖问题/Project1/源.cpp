@@ -16,7 +16,7 @@ int main()
 	}
 	if(BMI>=24)
 	{
-		cout << setprecision(4) << fixed << BMI<<endl;
+		cout << setprecision(4) << fixed << BMI << endl;
 		cout << "Overweight" << endl;
 	}
 }
